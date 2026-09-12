@@ -1,0 +1,29 @@
+[
+    {
+        "id": "KNS-001",
+        "name": "Bwalya Chilufya",
+        "registrationDate": "2015-05-10",
+        "location": "Solwezi, North-Western Province",
+        "role": "Mine Manager",
+        "status": "Active",
+        "licenseNumber": "LML-2015-001"
+    },
+    {
+        "id": "KNS-002",
+        "name": "Mwila Mutale",
+        "registrationDate": "2018-11-20",
+        "location": "Solwezi, North-Western Province",
+        "role": "Geologist",
+        "status": "Active",
+        "licenseNumber": "LML-2015-002"
+    },
+    {
+        "id": "KNS-admin",
+        "name": "Kansanshi Admin",
+        "registrationDate": "2015-01-01",
+        "location": "Solwezi, North-Western Province",
+        "role": "Administrator",
+        "status": "Active",
+        "licenseNumber": "LML-2015-000"
+    }
+]

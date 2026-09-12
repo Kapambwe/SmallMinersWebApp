@@ -1,0 +1,20 @@
+[
+  {
+    "id": "KCM-PL-001",
+    "date": "2024-04-20",
+    "mineralType": "Copper",
+    "quantity": 2500.0,
+    "unit": "tons",
+    "grade": "1.8%",
+    "minerId": "KCM-001"
+  },
+  {
+    "id": "KCM-PL-002",
+    "date": "2024-04-21",
+    "mineralType": "Copper",
+    "quantity": 2650.0,
+    "unit": "tons",
+    "grade": "1.75%",
+    "minerId": "KCM-001"
+  }
+]

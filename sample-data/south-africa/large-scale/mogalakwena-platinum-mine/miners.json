@@ -1,0 +1,20 @@
+[
+    {
+        "id": "MPM-001",
+        "name": "Lerato Moloi",
+        "registrationDate": "2012-04-10",
+        "location": "Mokopane, Limpopo",
+        "role": "Operations Director",
+        "status": "Active",
+        "licenseNumber": "LML-SA-2012-015"
+    },
+    {
+        "id": "MPM-admin",
+        "name": "Mogalakwena Admin",
+        "registrationDate": "2012-01-01",
+        "location": "Mokopane, Limpopo",
+        "role": "Administrator",
+        "status": "Active",
+        "licenseNumber": "LML-SA-2012-001"
+    }
+]

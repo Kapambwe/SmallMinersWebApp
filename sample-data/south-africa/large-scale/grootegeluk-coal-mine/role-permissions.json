@@ -1,0 +1,30 @@
+{
+    "General Manager": [
+        "MRA.Access",
+        "MRA.General.Home",
+        "MRA.General.View",
+        "MRA.Dashboards.LargeScale",
+        "MRA.Dashboards.Scada",
+        "MRA.Production.Operations",
+        "MRA.Production.Analytics",
+        "MRA.Safety.Management",
+        "MRA.Environmental.Compliance",
+        "MRA.Financial.Consolidation"
+    ],
+    "Administrator": [
+        "MRA.Access",
+        "MRA.General.Home",
+        "MRA.General.Counter",
+        "MRA.General.Weather",
+        "MRA.General.View",
+        "MRA.Dashboards.LargeScale",
+        "MRA.Dashboards.Scada",
+        "MRA.Dashboards.IoT",
+        "MRA.Dashboards.SafetyTwin",
+        "MRA.Production.Operations",
+        "MRA.Safety.Management",
+        "MRA.Financial.ERP",
+        "MRA.Workforce.Management",
+        "MRA.Reporting.Government"
+    ]
+}

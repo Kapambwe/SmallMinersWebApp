@@ -1,0 +1,20 @@
+[
+    {
+        "id": "GCM-001",
+        "name": "Andre van der Merwe",
+        "registrationDate": "2010-06-20",
+        "location": "Lephalale, Limpopo",
+        "role": "General Manager",
+        "status": "Active",
+        "licenseNumber": "LML-SA-2010-088"
+    },
+    {
+        "id": "GCM-admin",
+        "name": "Grootegeluk Admin",
+        "registrationDate": "2010-01-01",
+        "location": "Lephalale, Limpopo",
+        "role": "Administrator",
+        "status": "Active",
+        "licenseNumber": "LML-SA-2010-001"
+    }
+]

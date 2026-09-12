@@ -1,0 +1,20 @@
+[
+  {
+    "id": "GCM-PL-001",
+    "date": "2024-04-20",
+    "mineralType": "Coal",
+    "quantity": 12000.0,
+    "unit": "tons",
+    "grade": "Coking Coal",
+    "minerId": "GCM-001"
+  },
+  {
+    "id": "GCM-PL-002",
+    "date": "2024-04-21",
+    "mineralType": "Coal",
+    "quantity": 11500.0,
+    "unit": "tons",
+    "grade": "Thermal",
+    "minerId": "GCM-001"
+  }
+]

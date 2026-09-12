@@ -1,0 +1,14 @@
+[
+  {
+    "month": "2024-01",
+    "oreMined": 45000,
+    "concentrateProduced": 2100,
+    "nickelGrade": 0.82
+  },
+  {
+    "month": "2024-02",
+    "oreMined": 42000,
+    "concentrateProduced": 1950,
+    "nickelGrade": 0.84
+  }
+]

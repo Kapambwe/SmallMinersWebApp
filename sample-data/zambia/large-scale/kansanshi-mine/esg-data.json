@@ -1,0 +1,16 @@
+[
+  {
+    "year": 2023,
+    "carbonEmissions": 150000,
+    "waterRecycledPercentage": 75.5,
+    "communityInvestmentUSD": 2500000,
+    "safetyLTI": 0.05
+  },
+  {
+    "year": 2024,
+    "carbonEmissions": 145000,
+    "waterRecycledPercentage": 78.2,
+    "communityInvestmentUSD": 3000000,
+    "safetyLTI": 0.04
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "MPM-PL-001",
+    "date": "2024-04-20",
+    "mineralType": "Platinum",
+    "quantity": 1250.0,
+    "unit": "oz",
+    "grade": "4.2g/t",
+    "minerId": "MPM-001"
+  },
+  {
+    "id": "MPM-PL-002",
+    "date": "2024-04-21",
+    "mineralType": "Palladium",
+    "quantity": 850.0,
+    "unit": "oz",
+    "grade": "3.1g/t",
+    "minerId": "MPM-001"
+  }
+]

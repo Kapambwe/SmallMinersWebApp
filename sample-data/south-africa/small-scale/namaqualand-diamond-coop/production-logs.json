@@ -1,0 +1,20 @@
+[
+  {
+    "id": "NDC-PL-001",
+    "date": "2024-04-15",
+    "mineralType": "Diamonds",
+    "quantity": 14.5,
+    "unit": "carats",
+    "grade": "Gem Quality",
+    "minerId": "NDC-002"
+  },
+  {
+    "id": "NDC-PL-002",
+    "date": "2024-04-18",
+    "mineralType": "Diamonds",
+    "quantity": 3.2,
+    "unit": "carats",
+    "grade": "Industrial",
+    "minerId": "NDC-002"
+  }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "id": "MNM-001",
+        "name": "James Mulenga",
+        "registrationDate": "2020-01-15",
+        "location": "Mazabuka, Southern Province",
+        "role": "Operations Manager",
+        "status": "Active",
+        "licenseNumber": "ML-2020-045"
+    },
+    {
+        "id": "MNM-002",
+        "name": "Sarah Zulu",
+        "registrationDate": "2021-03-22",
+        "location": "Mazabuka, Southern Province",
+        "role": "Safety Officer",
+        "status": "Active",
+        "licenseNumber": "ML-2020-046"
+    },
+    {
+        "id": "MNM-admin",
+        "name": "Munali Admin",
+        "registrationDate": "2020-01-01",
+        "location": "Mazabuka, Southern Province",
+        "role": "Administrator",
+        "status": "Active",
+        "licenseNumber": "ML-2020-001"
+    }
+]

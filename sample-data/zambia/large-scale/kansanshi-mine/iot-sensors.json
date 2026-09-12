@@ -1,0 +1,18 @@
+[
+  {
+    "sensorId": "S-TRK-101",
+    "location": "Main Pit",
+    "type": "Vibration",
+    "value": 0.02,
+    "unit": "mm/s",
+    "timestamp": "2024-04-25T10:00:00Z"
+  },
+  {
+    "sensorId": "S-GAS-205",
+    "location": "Underground Vent 4",
+    "type": "CO2",
+    "value": 450,
+    "unit": "ppm",
+    "timestamp": "2024-04-25T10:05:00Z"
+  }
+]

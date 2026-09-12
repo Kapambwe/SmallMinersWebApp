@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Small Miners WebApp</title>
+    <base href="/SmallMinersWebApp/" />
+    <link href="_framework/dotnet.685xegqfiv.js" rel="preload" as="script" fetchpriority="high" crossorigin="anonymous" integrity="sha256-Svkb0dFahIrxEvV3dMq96yAZhloI3w9cBNvWZfi8K2M=" />
+    <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="_content/Radzen.Blazor/css/material-base.css" />
+    <link rel="stylesheet" href="css/app.css" />
+    <link rel="icon" type="image/png" href="favicon.png" />
+    <link href="SmallMinersWebApp.styles.css" rel="stylesheet" />
+    <link href="manifest.webmanifest" rel="manifest" />
+    <link rel="apple-touch-icon" sizes="512x512" href="icon-512.png" />
+    <link rel="apple-touch-icon" sizes="192x192" href="icon-192.png" />
+    <script type="importmap">{
+  "imports": {
+    "./_framework/blazor.webassembly.js": "./_framework/blazor.webassembly.w3qd1tpl0e.js",
+    "./_framework/dotnet.js": "./_framework/dotnet.685xegqfiv.js",
+    "./_framework/dotnet.native.js": "./_framework/dotnet.native.vzj2a6aakt.js",
+    "./_framework/dotnet.runtime.js": "./_framework/dotnet.runtime.zbexyp8zrs.js"
+  },
+  "scopes": {},
+  "integrity": {
+    "./_framework/blazor.webassembly.js": "sha256-lDXsDYFgm62F+YUvxES7IOTCXYpiHpU3uR45YdC6mq4=",
+    "./_framework/blazor.webassembly.w3qd1tpl0e.js": "sha256-lDXsDYFgm62F+YUvxES7IOTCXYpiHpU3uR45YdC6mq4=",
+    "./_framework/dotnet.685xegqfiv.js": "sha256-Svkb0dFahIrxEvV3dMq96yAZhloI3w9cBNvWZfi8K2M=",
+    "./_framework/dotnet.js": "sha256-Svkb0dFahIrxEvV3dMq96yAZhloI3w9cBNvWZfi8K2M=",
+    "./_framework/dotnet.native.js": "sha256-RezASHv+dbqV50cFnld76YiLhk4B+BjMAKs/euUdNyE=",
+    "./_framework/dotnet.native.vzj2a6aakt.js": "sha256-RezASHv+dbqV50cFnld76YiLhk4B+BjMAKs/euUdNyE=",
+    "./_framework/dotnet.runtime.js": "sha256-MZMguyke9CroSQl+L/SHIGFkPTD+LtYGXkXjAvwWx40=",
+    "./_framework/dotnet.runtime.zbexyp8zrs.js": "sha256-MZMguyke9CroSQl+L/SHIGFkPTD+LtYGXkXjAvwWx40="
+  }
+}</script>
+</head>
+
+<body>
+    <div id="app">
+        <svg class="loading-progress">
+            <circle r="40%" cx="50%" cy="50%" />
+            <circle r="40%" cx="50%" cy="50%" />
+        </svg>
+        <div class="loading-progress-text"></div>
+    </div>
+
+    <div id="blazor-error-ui">
+        An unhandled error has occurred.
+        <a href="." class="reload">Reload</a>
+        <span class="dismiss">🗙</span>
+    </div>
+    <script src="_framework/blazor.webassembly.w3qd1tpl0e.js"></script>
+    <script src="_content/Radzen.Blazor/Radzen.Blazor.js"></script>
+    <script>
+        // If redirected from 404.html, restore path
+        (function () {
+            const params = new URLSearchParams(window.location.search);
+            const path = params.get('path');
+            if (path) {
+                window.history.replaceState(null, '', '/SmallMinersWebApp' + decodeURIComponent(path));
+            }
+        })();
+    </script>
+</body>
+
+</html>

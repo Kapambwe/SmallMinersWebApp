@@ -1,0 +1,20 @@
+[
+  {
+    "id": "BAG-PL-001",
+    "date": "2024-04-20",
+    "mineralType": "Gold",
+    "quantity": 0.12,
+    "unit": "kg",
+    "grade": "88%",
+    "minerId": "BAG-001"
+  },
+  {
+    "id": "BAG-PL-002",
+    "date": "2024-04-22",
+    "mineralType": "Gold",
+    "quantity": 0.08,
+    "unit": "kg",
+    "grade": "85%",
+    "minerId": "BAG-002"
+  }
+]

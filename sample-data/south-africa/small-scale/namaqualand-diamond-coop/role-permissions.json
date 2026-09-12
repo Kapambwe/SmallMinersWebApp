@@ -1,0 +1,22 @@
+{
+    "Member": [
+        "MRA.Access",
+        "MRA.General.Home",
+        "MRA.General.View",
+        "MRA.Production.Logging",
+        "MRA.Safety.Management",
+        "MRA.Traceability.View"
+    ],
+    "Administrator": [
+        "MRA.Access",
+        "MRA.General.Home",
+        "MRA.General.View",
+        "MRA.Dashboards.Mining",
+        "MRA.Miners.List",
+        "MRA.Production.Operations",
+        "MRA.Safety.Management",
+        "MRA.Financial.Costs",
+        "MRA.Traceability.Blockchain",
+        "MRA.Reporting.Government"
+    ]
+}

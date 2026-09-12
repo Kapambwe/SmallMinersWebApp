@@ -1,0 +1,38 @@
+[
+    {
+        "id":  "M-001",
+        "name":  "Chanda Musonda",
+        "registrationDate":  "2023-05-15",
+        "location":  "Mumbwa, Central Province",
+        "role":  "Chairman",
+        "status":  "Active",
+        "licenseNumber":  "SML-2023-001"
+    },
+    {
+        "id":  "M-002",
+        "name":  "Grace Phiri",
+        "registrationDate":  "2023-06-20",
+        "location":  "Mumbwa, Central Province",
+        "role":  "Secretary",
+        "status":  "Active",
+        "licenseNumber":  "SML-2023-002"
+    },
+    {
+        "id":  "M-003",
+        "name":  "Samuel Banda",
+        "registrationDate":  "2024-01-10",
+        "location":  "Mumbwa, Central Province",
+        "role":  "Member",
+        "status":  "Pending",
+        "licenseNumber":  "SML-2023-003"
+    },
+    {
+        "id":  "M-004",
+        "name":  "Administrator",
+        "registrationDate":  "2024-02-01",
+        "location":  "Mumbwa, Central Province",
+        "role":  "Administrator",
+        "status":  "Active",
+        "licenseNumber":  "SML-2023-004"
+    }
+]

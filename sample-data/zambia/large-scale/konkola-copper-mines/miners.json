@@ -1,0 +1,29 @@
+[
+    {
+        "id": "KCM-001",
+        "name": "Kondwani Mwale",
+        "registrationDate": "2010-03-12",
+        "location": "Chingola, Copperbelt Province",
+        "role": "Operations Director",
+        "status": "Active",
+        "licenseNumber": "LML-2010-001"
+    },
+    {
+        "id": "KCM-002",
+        "name": "Faith Tembo",
+        "registrationDate": "2019-07-05",
+        "location": "Chingola, Copperbelt Province",
+        "role": "Ventilation Engineer",
+        "status": "Active",
+        "licenseNumber": "LML-2010-002"
+    },
+    {
+        "id": "KCM-admin",
+        "name": "KCM Admin",
+        "registrationDate": "2010-01-01",
+        "location": "Chingola, Copperbelt Province",
+        "role": "Administrator",
+        "status": "Active",
+        "licenseNumber": "LML-2010-000"
+    }
+]

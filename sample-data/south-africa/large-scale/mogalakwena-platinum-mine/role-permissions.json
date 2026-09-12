@@ -1,0 +1,36 @@
+{
+    "Operations Director": [
+        "MRA.Access",
+        "MRA.General.Home",
+        "MRA.General.View",
+        "MRA.Dashboards.LargeScale",
+        "MRA.Dashboards.Scada",
+        "MRA.Dashboards.IoT",
+        "MRA.Production.Operations",
+        "MRA.Production.Analytics",
+        "MRA.Safety.Management",
+        "MRA.Environmental.Compliance",
+        "MRA.Financial.Consolidation"
+    ],
+    "Administrator": [
+        "MRA.Access",
+        "MRA.General.Home",
+        "MRA.General.Counter",
+        "MRA.General.Weather",
+        "MRA.General.View",
+        "MRA.Dashboards.LargeScale",
+        "MRA.Dashboards.Scada",
+        "MRA.Dashboards.IoT",
+        "MRA.Dashboards.SafetyTwin",
+        "MRA.Dashboards.ProvenanceTwin",
+        "MRA.Production.Operations",
+        "MRA.Production.Analytics",
+        "MRA.Safety.Management",
+        "MRA.Environmental.Compliance",
+        "MRA.Financial.ERP",
+        "MRA.Financial.Consolidation",
+        "MRA.Workforce.Management",
+        "MRA.Reporting.Government",
+        "MRA.Reporting.ESG"
+    ]
+}

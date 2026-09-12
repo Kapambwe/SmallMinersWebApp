@@ -1,0 +1,20 @@
+[
+  {
+    "id": "MNM-PL-001",
+    "date": "2024-04-20",
+    "mineralType": "Nickel",
+    "quantity": 250.5,
+    "unit": "tons",
+    "grade": "1.2%",
+    "minerId": "MNM-001"
+  },
+  {
+    "id": "MNM-PL-002",
+    "date": "2024-04-21",
+    "mineralType": "Nickel",
+    "quantity": 245.0,
+    "unit": "tons",
+    "grade": "1.15%",
+    "minerId": "MNM-001"
+  }
+]

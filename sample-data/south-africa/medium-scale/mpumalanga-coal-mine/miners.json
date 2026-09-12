@@ -1,0 +1,20 @@
+[
+    {
+        "id": "MCM-001",
+        "name": "Pieter Botha",
+        "registrationDate": "2019-05-15",
+        "location": "eMalahleni, Mpumalanga",
+        "role": "Site Manager",
+        "status": "Active",
+        "licenseNumber": "ML-SA-2019-122"
+    },
+    {
+        "id": "MCM-admin",
+        "name": "MCM Admin",
+        "registrationDate": "2019-01-01",
+        "location": "eMalahleni, Mpumalanga",
+        "role": "Administrator",
+        "status": "Active",
+        "licenseNumber": "ML-SA-2019-001"
+    }
+]

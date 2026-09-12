@@ -1,0 +1,20 @@
+[
+  {
+    "id": "PL-001",
+    "date": "2024-04-20",
+    "mineralType": "Gold",
+    "quantity": 0.5,
+    "unit": "kg",
+    "grade": "95%",
+    "minerId": "M-001"
+  },
+  {
+    "id": "PL-002",
+    "date": "2024-04-21",
+    "mineralType": "Gold",
+    "quantity": 0.3,
+    "unit": "kg",
+    "grade": "92%",
+    "minerId": "M-002"
+  }
+]

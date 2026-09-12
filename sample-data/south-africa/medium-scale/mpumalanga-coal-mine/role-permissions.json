@@ -1,0 +1,26 @@
+{
+    "Site Manager": [
+        "MRA.Access",
+        "MRA.General.Home",
+        "MRA.General.View",
+        "MRA.Dashboards.MediumScale",
+        "MRA.Production.Operations",
+        "MRA.Production.Logging",
+        "MRA.Safety.Management",
+        "MRA.Environmental.Compliance",
+        "MRA.Workforce.Management"
+    ],
+    "Administrator": [
+        "MRA.Access",
+        "MRA.General.Home",
+        "MRA.General.View",
+        "MRA.General.Counter",
+        "MRA.Dashboards.MediumScale",
+        "MRA.Dashboards.Scada",
+        "MRA.Production.Analytics",
+        "MRA.Safety.Database",
+        "MRA.Financial.ERP",
+        "MRA.Reporting.Government",
+        "MRA.Reporting.ESG"
+    ]
+}

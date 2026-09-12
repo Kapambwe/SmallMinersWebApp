@@ -1,0 +1,18 @@
+[
+  {
+    "id": "V-001",
+    "type": "Excavator",
+    "model": "CAT 320",
+    "status": "Operational",
+    "lastMaintenance": "2024-03-15",
+    "nextMaintenance": "2024-06-15"
+  },
+  {
+    "id": "V-002",
+    "type": "Dump Truck",
+    "model": "Volvo A40G",
+    "status": "Maintenance",
+    "lastMaintenance": "2024-04-10",
+    "nextMaintenance": "2024-04-25"
+  }
+]

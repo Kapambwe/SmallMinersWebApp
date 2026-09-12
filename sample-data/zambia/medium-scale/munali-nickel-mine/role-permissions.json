@@ -1,0 +1,43 @@
+{
+    "Operations Manager": [
+        "MRA.Access",
+        "MRA.General.Home",
+        "MRA.General.View",
+        "MRA.Dashboards.MediumScale",
+        "MRA.Production.Operations",
+        "MRA.Production.Logging",
+        "MRA.Production.Processing",
+        "MRA.Production.GradeControl",
+        "MRA.Safety.Management",
+        "MRA.Safety.MSMS",
+        "MRA.Workforce.Management"
+    ],
+    "Safety Officer": [
+        "MRA.Access",
+        "MRA.General.Home",
+        "MRA.Safety.Management",
+        "MRA.Safety.Database",
+        "MRA.Safety.Incidents",
+        "MRA.Safety.MSMS",
+        "MRA.Safety.CriticalControls"
+    ],
+    "Administrator": [
+        "MRA.Access",
+        "MRA.General.Home",
+        "MRA.General.Counter",
+        "MRA.General.Weather",
+        "MRA.General.View",
+        "MRA.Dashboards.MediumScale",
+        "MRA.Dashboards.Scada",
+        "MRA.Miners.List",
+        "MRA.Production.Operations",
+        "MRA.Production.Analytics",
+        "MRA.Safety.Management",
+        "MRA.Financial.Services",
+        "MRA.Financial.Costs",
+        "MRA.Financial.ERP",
+        "MRA.Workforce.Management",
+        "MRA.Reporting.Government",
+        "MRA.Reporting.ESG"
+    ]
+}
